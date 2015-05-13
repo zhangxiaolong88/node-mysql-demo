@@ -18,4 +18,14 @@ GAME_NAME VARCHAR 100
 GAME_DESC VARCHAR 100
 ```
 
+####1. 需要在本地的mysql中创建一个上述的表格 GAME
+
+####2. 下载本项目后，需要修改server/config/config.js文件，指向本地的mysql数据库
+
+####3. 启动
+
+```
+  node server
+```
+
 PS：connect使用了较旧的版本
