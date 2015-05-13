@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>node-mysql-demo</title>
+</head>
+<body>
+	<script type="text/javascript">
+		var xhr = new XMLHttpRequest();
+
+		var url = "http://localhost:8888/game/getGames";
+
+		url+="?currentPage=1"; // 当前页
+		url+="&pageCount=10";  // 每页几条
+		url+="&sortName=GAME_ID"; // 排序字段
+		url+="&sortDesc=false"; // false: 升序 true：倒序
+		url+="&filterName=GAME_NAME"; // 筛选字段
+		url+="&filterContent=s"; // 筛选内容
+
+		xhr.open("GET", url, true);
+		xhr.send();
+
+		xhr.onreadystatechange = function(){
+			if(xhr.readyState == 4){
+				if(xhr.status == 200){
+					console.log(xhr.responseText);
+				}	
+			}
+		};
+	</script>
+</script>
+</body>
+</html>
+

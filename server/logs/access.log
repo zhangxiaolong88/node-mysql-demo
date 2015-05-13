@@ -1,0 +1,39 @@
+[2015-05-13 15:55:58.902] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 15:55:58.908] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 15:55:58.909] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 15:55:59.015] [INFO] console - server is listen on port 8888.
+[2015-05-13 15:56:24.669] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 15:56:24.674] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 15:56:24.676] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 15:56:24.782] [INFO] console - server is listen on port 8888.
+[2015-05-13 15:57:03.696] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 15:57:03.701] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 15:57:03.703] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 15:57:03.808] [INFO] console - server is listen on port 8888.
+[2015-05-13 15:57:47.570] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 15:57:47.576] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 15:57:47.578] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 15:57:47.684] [INFO] console - server is listen on port 8888.
+[2015-05-13 15:57:49.954] [INFO] console - select * from game order by undefined asc
+[2015-05-13 15:57:50.018] [ERROR] dbOperation - 数据库脚本: 
+[2015-05-13 16:00:38.286] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 16:00:38.292] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 16:00:38.294] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 16:00:38.400] [INFO] console - server is listen on port 8888.
+[2015-05-13 16:00:40.374] [INFO] console - select * from game order by GAME_ID asc
+[2015-05-13 16:09:14.519] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 16:09:14.525] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 16:09:14.527] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 16:09:14.634] [INFO] console - server is listen on port 8888.
+[2015-05-13 16:09:18.158] [INFO] console - select * from game where GAME_NAME like '%GAME_NAME%' order by s
+[2015-05-13 16:09:18.219] [ERROR] dbOperation - 数据库脚本: 
+[2015-05-13 16:10:18.335] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 16:10:18.340] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 16:10:18.342] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 16:10:18.449] [INFO] console - server is listen on port 8888.
+[2015-05-13 16:10:21.536] [INFO] console - select * from game where GAME_NAME like '%s%' order by GAME_ID asc
+[2015-05-13 16:12:22.949] [WARN] console - connect.multipart() will be removed in connect 3.0
+[2015-05-13 16:12:22.956] [WARN] console - visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+[2015-05-13 16:12:22.959] [WARN] console - connect.limit() will be removed in connect 3.0
+[2015-05-13 16:12:23.066] [INFO] console - server is listen on port 8888.
+[2015-05-13 16:12:25.448] [INFO] console - select * from game where GAME_NAME like '%s%' order by GAME_ID asc

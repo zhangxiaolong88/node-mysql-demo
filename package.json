@@ -1,0 +1,20 @@
+{
+  "name": "7thbacksupporter",
+  "version": "0.0.0",
+  "dependencies": {
+    "connect-multiparty": "^1.2.4",
+    "express": "~3.4.0",
+    "log4js": "*",
+    "tedious": "0.1.5",
+    "tedious-connection-pool": "0.1.1",
+    "mysql": "git://github.com/felixge/node-mysql"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  }
+}
