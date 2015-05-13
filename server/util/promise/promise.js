@@ -1,11 +1,3 @@
-/**
- * Created with JetBrains WebStorm.
- * User: xuliang.cai
- * Date: 14-2-17
- * Time: 下午6:39
- * To change this template use File | Settings | File Templates.
- */
-
 module.exports = Promise;
 
 function Promise() {

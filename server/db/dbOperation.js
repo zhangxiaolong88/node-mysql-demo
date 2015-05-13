@@ -1,12 +1,4 @@
 /**
- * Created with JetBrains WebStorm.
- * User: xuliang.cai
- * Date: 13-10-17
- * Time: 下午5:33
- * To change this template use File | Settings | File Templates.
- */
-
-/**
  * 说明：数据库操作类，提供增删查改方法
  */
 
