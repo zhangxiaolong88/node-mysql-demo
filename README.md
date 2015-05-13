@@ -1,5 +1,8 @@
 # node-mysql-demo
-封装了 nodejs  操作 mysql 常用函数
+
+一个node 操作 mysql 的例子
+
+例子中封装了 nodejs  操作 mysql 常用函数
 
 该例子中的数据库的表格格式如下：
 
